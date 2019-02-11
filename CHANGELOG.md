@@ -1,7 +1,12 @@
 # Change Log
 
-### v1.3.0
+### v1.3.1
 2019-02-11
+
+* Package was broken because of `\n` at the end of `dist` folder.
+
+### v1.3.0
+2019-02-8
 
 * Add support for React v16.0.0
 
