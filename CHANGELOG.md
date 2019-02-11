@@ -1,5 +1,10 @@
 # Change Log
 
+### v1.3.0
+2019-02-11
+
+* Add support for React v16.0.0
+
 ### v1.2.0
 2015-April-09
 
