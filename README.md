@@ -19,7 +19,7 @@ Additionally, React Mounter can work as a simple Layout Manager where you can us
 Install with:
 
 ```
-npm i --save react-mounter react react-dom
+npm i --save @eyexs/react-mounter react react-dom
 ```
 
 > `react` and `react-dom` are peerDependencies of `react-mounter`. So, you need to install them into your app manually.
